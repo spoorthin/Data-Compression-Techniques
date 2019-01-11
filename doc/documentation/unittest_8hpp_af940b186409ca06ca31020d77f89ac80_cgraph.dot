@@ -1,0 +1,9 @@
+digraph "test_column"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="test_column",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="equals",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unittest_8hpp.htm#a8ac0f6c1158442562aac6b36770b008c"];
+}

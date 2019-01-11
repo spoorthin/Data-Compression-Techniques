@@ -1,0 +1,11 @@
+digraph "CoGaDB::ColumnBaseTyped::division"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CoGaDB::ColumnBaseTyped\l::division",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CoGaDB::ColumnBaseTyped\l::operator[]",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#a0f43450e8224027b9d1055ba8d758477",tooltip="defines operator[] for this class, which enables the user to thread all typed columns as arrays..."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CoGaDB::ColumnBaseTyped\l::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#a8ff087045b933adcd017877c1f0802bc",tooltip="returns the number of values (rows) in a column "];
+}

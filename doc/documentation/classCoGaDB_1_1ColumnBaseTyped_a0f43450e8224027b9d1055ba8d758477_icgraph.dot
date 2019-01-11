@@ -1,0 +1,15 @@
+digraph "CoGaDB::ColumnBaseTyped::operator[]"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CoGaDB::ColumnBaseTyped\l::operator[]",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CoGaDB::ColumnBaseTyped::add",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#abe0449e21775f7b45c4bf78b92a10c7d",tooltip="adds constant to column "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CoGaDB::ColumnBaseTyped\l::division",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#a7c603f30ff974d76878a2d24fc863df6",tooltip="devide values in column by a constant "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CoGaDB::ColumnBaseTyped\l::minus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#a517e7c030036165fc07f38a871f09550",tooltip="substracts constant from column "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="CoGaDB::ColumnBaseTyped\l::multiply",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCoGaDB_1_1ColumnBaseTyped.htm#a629b2349ed7289016f9ea1cf2d8e69ac",tooltip="multiply constant with column "];
+}

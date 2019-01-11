@@ -1,0 +1,197 @@
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8cpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8cpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8cpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/lookup__array_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/lookup__array_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/lookup__array_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__dep__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__dep__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__dep__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/main_8cpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/main_8cpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/main_8cpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_a8ac0f6c1158442562aac6b36770b008c_icgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_a8ac0f6c1158442562aac6b36770b008c_icgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_a8ac0f6c1158442562aac6b36770b008c_icgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__incl.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__incl.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__incl.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_af940b186409ca06ca31020d77f89ac80_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_af940b186409ca06ca31020d77f89ac80_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_af940b186409ca06ca31020d77f89ac80_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_abe0449e21775f7b45c4bf78b92a10c7d_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_abe0449e21775f7b45c4bf78b92a10c7d_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_abe0449e21775f7b45c4bf78b92a10c7d_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a86465e676bc50050e742502349a329b0_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a86465e676bc50050e742502349a329b0_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a86465e676bc50050e742502349a329b0_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a7c603f30ff974d76878a2d24fc863df6_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a7c603f30ff974d76878a2d24fc863df6_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a7c603f30ff974d76878a2d24fc863df6_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aa792f1534eb72663cdad309f183902df_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aa792f1534eb72663cdad309f183902df_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aa792f1534eb72663cdad309f183902df_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a517e7c030036165fc07f38a871f09550_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a517e7c030036165fc07f38a871f09550_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a517e7c030036165fc07f38a871f09550_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aecf75e19247ccd3e34d0b8f70b00b2bb_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aecf75e19247ccd3e34d0b8f70b00b2bb_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aecf75e19247ccd3e34d0b8f70b00b2bb_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a49169a89bcb598b84dcd11eac21c2055_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a49169a89bcb598b84dcd11eac21c2055_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a49169a89bcb598b84dcd11eac21c2055_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac66da4e2c203ff8ca673c19242a7e766_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac66da4e2c203ff8ca673c19242a7e766_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac66da4e2c203ff8ca673c19242a7e766_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a10457ede9dda1c5cfc120fad77b36d04_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a10457ede9dda1c5cfc120fad77b36d04_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a10457ede9dda1c5cfc120fad77b36d04_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a629b2349ed7289016f9ea1cf2d8e69ac_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a629b2349ed7289016f9ea1cf2d8e69ac_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a629b2349ed7289016f9ea1cf2d8e69ac_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a73a3921727fb8a5be6a81958b1a4e4d6_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a73a3921727fb8a5be6a81958b1a4e4d6_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a73a3921727fb8a5be6a81958b1a4e4d6_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a91c27b988eb79cca9163a82492936814_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a91c27b988eb79cca9163a82492936814_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a91c27b988eb79cca9163a82492936814_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a0f43450e8224027b9d1055ba8d758477_icgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a0f43450e8224027b9d1055ba8d758477_icgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a0f43450e8224027b9d1055ba8d758477_icgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a8ff087045b933adcd017877c1f0802bc_icgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a8ff087045b933adcd017877c1f0802bc_icgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a8ff087045b933adcd017877c1f0802bc_icgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac2c0472e88ed4c14d10a879a6646c3f2_cgraph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac2c0472e88ed4c14d10a879a6646c3f2_cgraph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac2c0472e88ed4c14d10a879a6646c3f2_cgraph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__inherit__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__inherit__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__inherit__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__coll__graph.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__coll__graph.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__coll__graph.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/graph_legend.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/graph_legend.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_0.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_0.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_0.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/dir_088cf94c502ec4084bf39b8eb256ca2e_dep.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dir_088cf94c502ec4084bf39b8eb256ca2e_dep.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/dir_088cf94c502ec4084bf39b8eb256ca2e_dep.map"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_1.dot" -Tpng -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_1.png" -Tcmapx -o "/home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_1.map"'
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/base__column_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/column_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/column__base__typed_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/compressed__column_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/dictionary__compressed__column_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/global__definitions_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/lookup__array_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/main_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_a8ac0f6c1158442562aac6b36770b008c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/unittest_8hpp_af940b186409ca06ca31020d77f89ac80_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1Column__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBase__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_abe0449e21775f7b45c4bf78b92a10c7d_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a86465e676bc50050e742502349a329b0_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a7c603f30ff974d76878a2d24fc863df6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aa792f1534eb72663cdad309f183902df_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac66da4e2c203ff8ca673c19242a7e766_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a517e7c030036165fc07f38a871f09550_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_aecf75e19247ccd3e34d0b8f70b00b2bb_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a629b2349ed7289016f9ea1cf2d8e69ac_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a49169a89bcb598b84dcd11eac21c2055_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a10457ede9dda1c5cfc120fad77b36d04_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a73a3921727fb8a5be6a81958b1a4e4d6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a0f43450e8224027b9d1055ba8d758477_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a91c27b988eb79cca9163a82492936814_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_a8ff087045b933adcd017877c1f0802bc_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1ColumnBaseTyped_ac2c0472e88ed4c14d10a879a6646c3f2_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1CompressedColumn__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1DictionaryCompressedColumn__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/classCoGaDB_1_1LookupArray__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/dir_088cf94c502ec4084bf39b8eb256ca2e_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_0.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/spoorthi/Documents/db2_programming_project/doc/documentation/inherit_graph_1.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.

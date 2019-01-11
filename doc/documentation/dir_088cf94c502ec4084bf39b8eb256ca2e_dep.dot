@@ -1,0 +1,8 @@
+digraph "compression" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_088cf94c502ec4084bf39b8eb256ca2e [shape=box, label="compression", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_088cf94c502ec4084bf39b8eb256ca2e.htm"];
+  dir_4270bfced15e0e73154b13468c7c9ad9 [shape=box label="core" URL="dir_4270bfced15e0e73154b13468c7c9ad9.htm"];
+  dir_088cf94c502ec4084bf39b8eb256ca2e->dir_4270bfced15e0e73154b13468c7c9ad9 [headlabel="1", labeldistance=1.5 headhref="dir_000001_000000.htm"];
+}
